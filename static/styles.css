@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.file-input-container {
+    text-align: center;
+}
+
+.file-input {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.file-label {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.file-label:hover {
+    background-color: #2980b9;
+}
