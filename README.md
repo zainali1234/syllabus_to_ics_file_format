@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Syllabus to ICS File Format Converter is a Python script that allows users to convert syllabus information into the widely used ICS (iCalendar) file format. This can be useful for importing important dates and events from a course syllabus into calendar applications such as Google Calendar, Microsoft Outlook, or Apple Calendar.
+The Syllabus to ICS File Format Converter is a Flask application that allows users to convert syllabus information into the widely used ICS (iCalendar) file format. This can be useful for importing important dates and events from a course syllabus into calendar applications such as Google Calendar, Microsoft Outlook, or Apple Calendar.
 
 ## How to Use
 
